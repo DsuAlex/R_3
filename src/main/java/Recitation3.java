@@ -15,9 +15,10 @@ public class Recitation3 {
         if (circle16.intersects(circle40) == true){
         System.out.println("true");
 
+
     }
         else{
-        System.out.println("Circles do not intersect!");
+        System.out.println("false!");
     }
 
 }}
